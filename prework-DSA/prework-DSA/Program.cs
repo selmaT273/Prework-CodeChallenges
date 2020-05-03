@@ -7,7 +7,8 @@ namespace prework_DSA
     {
         static void Main(string[] args)
         {
-            ArrayMaxResult();
+            //ArrayMaxResult();
+            LeapYearCalculator();
         }
 
         private static void ArrayMaxResult()
@@ -35,6 +36,21 @@ namespace prework_DSA
             int score = numberSelected * counter;
 
             Console.Write($"Your score is {score}");
+        }
+
+        private static void LeapYearCalculator()
+        {
+            Console.WriteLine("Enter a year to see if it is a leap year.");
+            int year = int.Parse(Console.ReadLine());
+
+            if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0))
+            {
+                Console.Write($" {year} is a leap year!");
+            }
+            else
+            {
+                Console.Write($"{year} is not a leap year.");
+            }
         }
     }
 }
