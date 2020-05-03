@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace prework_DSA
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayMaxResult();
+        }
+
+        private static void ArrayMaxResult()
+        {
+            Console.WriteLine("Please enter 5 whole numbers between 1 and 10.");
+            string userInputArray = Console.ReadLine();
+
+            Console.WriteLine($"You entered: {userInputArray}. " +
+                              $"Type one of the numbers you entered.");
+            string userInputNumber = Console.ReadLine();
+
+            int numberSelected = int.Parse(userInputNumber);
+            string[] eachNum = userInputArray.Split(' ');
+
+            int counter = 0;
+
+            foreach (string s in eachNum)
+            {
+                if(s == userInputNumber)
+                {
+                    counter++;
+                }
+            }
+
+            int score = numberSelected * counter;
+
+            Console.Write($"Your score is {score}");
+        }
+    }
+}

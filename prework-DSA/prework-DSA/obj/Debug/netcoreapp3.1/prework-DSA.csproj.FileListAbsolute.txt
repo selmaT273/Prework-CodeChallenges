@@ -1,0 +1,12 @@
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/bin/Debug/netcoreapp3.1/prework-DSA.deps.json
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/bin/Debug/netcoreapp3.1/prework-DSA.runtimeconfig.json
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/bin/Debug/netcoreapp3.1/prework-DSA.runtimeconfig.dev.json
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/bin/Debug/netcoreapp3.1/prework-DSA.dll
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/bin/Debug/netcoreapp3.1/prework-DSA.pdb
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.csprojAssemblyReference.cache
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.csproj.CoreCompileInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.AssemblyInfoInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.AssemblyInfo.cs
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.dll
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.pdb
+/Users/staceyteltser/Desktop/deltav401/Prework-CodeChallenges/prework-DSA/prework-DSA/obj/Debug/netcoreapp3.1/prework-DSA.genruntimeconfig.cache
