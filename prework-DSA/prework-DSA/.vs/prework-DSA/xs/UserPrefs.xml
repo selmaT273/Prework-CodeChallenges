@@ -1,11 +1,16 @@
-﻿<Properties StartupConfiguration="{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}|Default">
+﻿<Properties StartupConfiguration="{759B5D62-CDCD-43D6-97CE-D84C9D2B2437}|Default">
   <MonoDevelop.Ide.ItemProperties.prework-DSA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="52" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="prework-DSA" expanded="True">
-            <Node name="prework-DSA" expanded="True" />
+            <Node name="prework-DSA" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
