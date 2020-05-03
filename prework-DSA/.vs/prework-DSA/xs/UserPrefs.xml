@@ -1,17 +1,25 @@
-﻿<Properties StartupConfiguration="{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}|Default">
+﻿<Properties StartupConfiguration="{EF796A9B-F26A-4414-B661-577AB224ADC6}|Default">
   <MonoDevelop.Ide.ItemProperties.prework-DSA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="prework-DSA/Program.cs">
+    <Files>
+      <File FileName="prework-DSA/Program.cs" Line="10" Column="25" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="prework-DSA" expanded="True">
-            <Node name="prework-DSA" expanded="True" />
+            <Node name="prework-DSA" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>prework-DSA.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

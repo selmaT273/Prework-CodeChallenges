@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prework-DSA", "prework-DSA\prework-DSA.csproj", "{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prework-DSA", "prework-DSA\prework-DSA.csproj", "{EF796A9B-F26A-4414-B661-577AB224ADC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFC58A33-EAD0-4AAA-A1BC-0ACAED2174CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF796A9B-F26A-4414-B661-577AB224ADC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF796A9B-F26A-4414-B661-577AB224ADC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF796A9B-F26A-4414-B661-577AB224ADC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF796A9B-F26A-4414-B661-577AB224ADC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
