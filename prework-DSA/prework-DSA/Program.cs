@@ -66,7 +66,7 @@ namespace prework_DSA
             int product = 1;
             bool isPositive = true;
 
-            foreach(int num in array3)
+            foreach(int num in array2)
             {
                 if(num < 0)
                 {
