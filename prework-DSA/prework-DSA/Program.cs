@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace prework_DSA
 {
@@ -8,7 +9,8 @@ namespace prework_DSA
         static void Main(string[] args)
         {
             //ArrayMaxResult();
-            LeapYearCalculator();
+            //LeapYearCalculator();
+            PerfectSequence();
         }
 
         private static void ArrayMaxResult()
@@ -50,6 +52,19 @@ namespace prework_DSA
             else
             {
                 Console.Write($"{year} is not a leap year.");
+            }
+        }
+
+        private static void PerfectSequence()
+        {
+            int[] array = new int[] { 1, 2, -1 };
+            bool allPositive = array.All(x => x >= 0);
+            if (allPositive == true)
+            {
+                Console.Write("Yes");
+            } else
+            {
+                Console.Write("No");
             }
         }
     }
