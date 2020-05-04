@@ -10,7 +10,8 @@ namespace prework_DSA
         {
             //ArrayMaxResult();
             //LeapYearCalculator();
-            PerfectSequence();
+            //PerfectSequence();
+            SumOfRows();
         }
 
         private static void ArrayMaxResult()
@@ -84,6 +85,45 @@ namespace prework_DSA
             } else
             {
                 Console.Write("No");
+            }
+        }
+
+        private static void SumOfRows()
+        {
+            Console.WriteLine("Please enter a number between 1 and 10");
+            int userInput1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Please enter another number between 1 and 10");
+            int userInput2 = int.Parse(Console.ReadLine());
+            int[,] multidimensionalArray = CreateArray(userInput1, userInput2);
+
+
+
+
+        }
+
+        private static int[,] CreateArray(int number1, int number2)
+        {
+            int[,] myArray = new int[number1, number2];
+            for (int i = 0; i < number1; i++)
+            {
+                for (int j = 0; j < number2; j++)
+                {
+                    myArray[i, j] = 5;
+                }
+            }
+
+            return myArray;
+        }
+
+        private static void PrintArray(int[,] matrix)
+        {
+            for (int i = 0; i < matrix.Length; i++)
+            {
+                for (int j = 0; j < matrix[i].Length; j++)
+                {
+                    myArray[i, j] = 5;
+                }
             }
         }
     }
