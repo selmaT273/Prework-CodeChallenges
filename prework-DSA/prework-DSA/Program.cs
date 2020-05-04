@@ -57,9 +57,24 @@ namespace prework_DSA
 
         private static void PerfectSequence()
         {
-            int[] array = new int[] { 1, 2, -1 };
-            bool allPositive = array.All(x => x >= 0);
-            if (allPositive == true)
+            int[] array1 = { 1, 2, -1 };
+            int[] array2 = { 1, 2, 3 };
+            int[] array3 = { 0, 0, 0 };
+            int[] array4 = { 3, 6, 9 };
+
+            int sum = 0;
+            int product = 1;
+
+            foreach(int num in array2)
+            {
+                sum = sum + num;
+                product = product * num;
+            }
+
+            Console.WriteLine(sum);
+            Console.WriteLine(product);
+
+            if (sum == product)
             {
                 Console.Write("Yes");
             } else
