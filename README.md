@@ -12,3 +12,24 @@ You can select any number from the list, however your scoring will be depend on 
 
 ### Screenshot
 [Screenshot 1](screenshots/screenshot1.png)
+
+## Problem 2
+### Problem Statement
+Given a year, report if it is a leap year.
+
+### Screenshot
+[Screenshot 2](screenshots/screenshot2.png)
+
+## Problem 3
+### Problem Statement
+Given an array, return "Yes" if the sequence is considered a perfect sequence. Otherwise, return "No"
+
+### Perfect Sequences
+A perfect sequence is a sequence such that all of its elements are non-negative integers and the product of all of them is equal to their sum. For example: [2,2], [1,3,2] and [0,0,0,0] are perfect sequences and [4,5,6] and [0,2,-2] are not perfect sequences. Negative numbers of any kind are not valid in a perfect sequence
+
+### Screenshot
+[Screenshot 3](screenshots/screenshot3.png)
+
+## Problem 4
+### Problem Statement
+Given a matrix of integers. Return the sum of each row in a single dimensional array.
