@@ -78,10 +78,6 @@ namespace prework_DSA
                 product = product * num;
             }
 
-            Console.WriteLine(isPositive);
-            Console.WriteLine(sum);
-            Console.WriteLine(product);
-
             if (isPositive && sum == product)
             {
                 Console.Write("Yes");
