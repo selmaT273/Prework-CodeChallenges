@@ -64,17 +64,25 @@ namespace prework_DSA
 
             int sum = 0;
             int product = 1;
+            bool isPositive = true;
 
-            foreach(int num in array2)
+            foreach(int num in array3)
             {
+                if(num < 0)
+                {
+                    isPositive = false;
+                    break;
+                }
+
                 sum = sum + num;
                 product = product * num;
             }
 
+            Console.WriteLine(isPositive);
             Console.WriteLine(sum);
             Console.WriteLine(product);
 
-            if (sum == product)
+            if (isPositive && sum == product)
             {
                 Console.Write("Yes");
             } else
